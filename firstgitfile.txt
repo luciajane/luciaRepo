@@ -1,4 +1,2 @@
-This is the first git repository test file.
-
-Git is a version control file.
+Git is a distributed version control file.
 Git is free software.
