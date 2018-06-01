@@ -1,6 +1,2 @@
 this is the first file in new branch 'dev'.
-<<<<<<< HEAD
 a conflict.
-=======
-a conflict.
->>>>>>> ct
