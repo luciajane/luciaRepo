@@ -1,3 +1,4 @@
+update file to test merge with no-ff.
 Test git storage !!!
 Git is a distributed version control file.
 Git is free software.
