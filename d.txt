@@ -1,2 +1,3 @@
+recover bug in branch issue-101.
 this is the first file in new branch 'dev'.
 a conflict.
