@@ -1,2 +1,3 @@
 this is the first file in new branch 'dev'.
-a conflict.
+conflict.
+Bug branch test.
