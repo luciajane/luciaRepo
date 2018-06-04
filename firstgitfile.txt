@@ -1,3 +1,4 @@
+try to merge branch with no-ff mode.
 update file to test merge with no-ff.
 Test git storage !!!
 Git is a distributed version control file.
